@@ -1,6 +1,6 @@
 {
-    "name": "agd_pds",
-    "short_name": "agd_pds",
+    "name": "stc",
+    "short_name": "stc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
